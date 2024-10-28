@@ -21,6 +21,9 @@ public class Sesion34RiosCED_pilas {
         pilaRios.push(160);
         
         JOptionPane.showMessageDialog(null, "Datos en pila ordenada es: \n" + pilaRios);
+        
+        JOptionPane.showMessageDialog(null, "Autor Abigail Ríos \n");
+        
     }
     
 }
